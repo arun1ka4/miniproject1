@@ -23,6 +23,9 @@ Kelas: B
 # Flowchart
 ![minpro drawio](https://github.com/user-attachments/assets/efbf74c9-38a1-4631-97fb-f6ab49860db6)
 
+# File Tugas
+
+
 # Output
 ![minpro_1 output](https://github.com/user-attachments/assets/48a70d9a-2f19-4688-a1ce-32daef6ecedd)
 
