@@ -1,4 +1,4 @@
-# miniproject1
+# mini project1
 
 NIM Ganjil
 Program Menghitung Gaji Karyawan Berdasarkan Jam Kerja dan Tarif Kerja
